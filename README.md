@@ -1,2 +1,2 @@
 # 12-March
-This is for the Devops bootcamp that is going on.
+The project name is Recommneder System in Python. This is my first project in Machine learning that  I have made in my 2nd year of college. It was fun to first learn all the concepts needed to make one and then applying them to get the final product. It took me around 2 weeks to do the project all from scratch along with learning the same. I finally got to know the real meaning of using StackOverFlow by this project and get a handson experience for the same. 
